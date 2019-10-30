@@ -1,0 +1,2 @@
+,Random Forest,KNN,Logistic Regression,Gradient Boosting,SVC,MLP
+Accuracy,0.82,0.85,0.84,0.83,0.84,0.81

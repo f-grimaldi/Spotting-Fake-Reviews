@@ -1,0 +1,3 @@
+,Local Features,N-Grams & tf-idf,Word2Vec
+Accuracy,0.755,0.895,0.785
+F-Score,0.746,0.896,0.7859999999999999
